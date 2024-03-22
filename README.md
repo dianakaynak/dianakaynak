@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://st3.depositphotos.com/1318242/17430/v/600/depositphotos_174305248-stock-illustration-work-desk-business-concept.jpg" alt="MasterHead">
-</div>
 
 <h1 align="center">Hi 👋, I'm Diana Kaynak</h1>
 <h3 align="center">.Net & React Full Stack Developer</h3>
