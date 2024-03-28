@@ -7,10 +7,10 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianakaynak&label=Profile%20views&color=0e75b6&style=flat" alt="dianakaynak" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/diana-kaynak-76070699/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana-kaynak" height="30" width="40" /></a>
-</p>
+<h4 align="left">🌐 Connect with me:</h4>
+<p align="center" dir="auto">
+  
+<a href="https://www.linkedin.com/in/diana-kaynak-76070699/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h4 align="left">💻 Languages and Tools:</h4>
 <p dir="auto" style="margin-bottom:0;">
